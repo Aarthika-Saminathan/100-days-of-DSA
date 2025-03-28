@@ -43,7 +43,6 @@ arr2 = [2, 3, 5, 4]
 print("Union of Arrays:", union_of_array(arr1, arr2))
 
 
-#method 4 (dsa)
 
 
 
