@@ -14,3 +14,8 @@ def subarraySum(nums, k):
         prefix_sum_count[prefixSum] = prefix_sum_count.get(prefixSum, 0) + 1
 
     return count
+
+
+nums=[1,2,3]
+k=6
+print(subarraySum(nums,k))
