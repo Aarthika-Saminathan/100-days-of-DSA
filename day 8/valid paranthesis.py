@@ -14,6 +14,3 @@ def isValid(s):
 
     return not stack  # If stack is empty, it's valid
 
-# Example usage:
-print(isValid("()[]{}"))  # Output: True
-print(isValid("(]"))      # Output: False
